@@ -6,4 +6,8 @@ Salve , mi chiamo Giuseppe La Perna e attualmente sto seguendo il master in Data
 - Analisi delle Vendite di una Catena di Supermercati con Tableau Public  
 - Analisi dei Piloti del Mondiale di F1 con Python  
 - Analisi dei Disastri Aerei dal 1919 al 2023 con Python
-- Sono appassionato di analisi dei dati e utilizzo strumenti come Excel, Power BI, Tableau e Python per estrarre insight significativi e supportare il processo decisionale.
+
+
+
+
+Sono appassionato di analisi dei dati e utilizzo strumenti come Excel, Power BI, Tableau e Python per estrarre insight significativi e supportare il processo decisionale.
