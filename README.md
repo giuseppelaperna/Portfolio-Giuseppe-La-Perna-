@@ -6,7 +6,7 @@ Salve , mi chiamo Giuseppe La Perna e attualmente sto seguendo il master in Data
 - Analisi delle Vendite di una Catena di Supermercati con Tableau Public  
 - Analisi dei Piloti del Mondiale di F1 con Python  
 - Analisi dei Disastri Aerei dal 1919 al 2023 con Python
-
+- Segmentazione della clientela di un'azienda di servizi finanziari
 
 
 
